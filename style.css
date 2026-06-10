@@ -24,3 +24,10 @@ h2 {
 a {
   color: #0366d6;
 }
+
+.project-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 20px 0;
+}
