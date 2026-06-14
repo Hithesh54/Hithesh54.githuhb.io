@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Classes | Hithesh </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="classes.html">Classes</a>
+    <a href="projects.html">Projects</a>
+  </nav>
+
+  <h1>Projects I’ve Done</h1>
+
+  <section>
+    <h2>Information Management</h2>
+    <ul>
+      <li><a href="classes/cloud-computing.html">Vendor Risk Assessment</a></li>
+      <li><a href="classes/cybersecurity-risk.html">Third Party Risk Assessment</a></li>
+      <li><a href="classes/people-analytics.html">NFL Analytics</a></li>
+      <li><a href="classes/machine-learning.html">Human Rights Essay</a></li>
+    </ul>
+  </section>
+
+</body>
+</html>
